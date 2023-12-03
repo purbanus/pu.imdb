@@ -1,0 +1,10 @@
+drwxr-xr-x 2 purbanus root    0 Nov 21  2018 12 Angry Men - Sidney Lumet - 1957 - Met-Henry Fonda, Lee J. Cobb, Martin Balsam/
+drwxr-xr-x 2 purbanus root    0 Jun 23  2022 1492 - Conquest Of Paradise - Ridley Scott - 1992 - Met-Gérard Depardieu, Armand Assante, Sigourney Weaver/
+drwxr-xr-x 2 purbanus root    0 Feb  7  2016 2001 - A Space Odyssey - Stanley Kubrick - 1968 - Met-Keir Dullea, Gary Lockwood, William Sylvester/
+drwxr-xr-x 2 purbanus root    0 Jan 29  2012 2010 - The Year We Make Contact - Peter Hyams - 1984 - Met-Roy Scheider, John Lithgow and Helen Mirren/
+drwxr-xr-x 2 purbanus root    0 Aug  3  2014 2012 - Roland Emmerich - 2009 - Met-John Cusack, Thandie Newton and Chiwetel Ejiofor/
+drwxr-xr-x 2 purbanus root    0 Feb 19  2012 25th Hour - Spike Lee - 2002 - Met-Edward Norton, Barry Pepper and Philip Seymour Hoffman en Anna Paquin/
+drwxr-xr-x 2 purbanus root    0 Feb  1  2014 28 days later - Danny Boyle - 2002 - Met-Cillian Murphy, Naomie Harris, Christopher Eccleston/
+drwxr-xr-x 2 purbanus root    0 Jul 17  2011 300 - Zack Snyder - 2006 - Met-Gerard Butler, Lena Headey and David Wenham/
+drwxr-xr-x 2 purbanus root    0 Jun 20  2015 44 Minutes - The Hollywood Shootout - Yves Simoneau - 2003 - Met-Michael Madsen, Ron Livingston, Ray Baker/
+drwxr-xr-x 2 purbanus root    0 Apr  8  2019 9 - Sean Acker - 2009 - Met-Elijah Wood, Jennifer Connelly, Crispin Glover/

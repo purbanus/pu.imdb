@@ -1,0 +1,367 @@
+{
+	"page": 1,
+	"next": "/titles/search/title/the%20matrix?titleType=movie&page=2",
+	"entries": 10,
+	"results": [
+		{
+			"_id": "61e5902995801a78bc44ce59",
+			"id": "tt10838180",
+			"primaryImage": {
+				"id": "rm3704744193",
+				"width": 2764,
+				"height": 4096,
+				"url": "https://m.media-amazon.com/images/M/MV5BMGJkNDJlZWUtOGM1Ny00YjNkLThiM2QtY2ZjMzQxMTIxNWNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+				"caption": {
+					"plainText": "Keanu Reeves, Carrie-Anne Moss, Eréndira Ibarra, Jessica Henwick, and Yahya Abdul-Mateen II in The Matrix Resurrections (2021)",
+					"__typename": "Markdown"
+				},
+				"__typename": "Image"
+			},
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix Resurrections",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix Resurrections",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2021,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 15,
+				"month": 1,
+				"year": 2022,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5cdd08a5a6a599f53c88d",
+			"id": "tt9847360",
+			"primaryImage": {
+				"id": "rm1083232769",
+				"width": 1384,
+				"height": 2048,
+				"url": "https://m.media-amazon.com/images/M/MV5BMWRhNGY3NGQtMDAxMS00YjY2LTgzOTUtZjljZmUyYWQwMGI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+				"caption": {
+					"plainText": "A Glitch in the Matrix (2021)",
+					"__typename": "Markdown"
+				},
+				"__typename": "Image"
+			},
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "A Glitch in the Matrix",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "A Glitch in the Matrix",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2021,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 5,
+				"month": 2,
+				"year": 2021,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5caf1cffb8f2faa531ccf",
+			"id": "tt9052972",
+			"primaryImage": null,
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher)",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher)",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2018,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 26,
+				"month": 9,
+				"year": 2018,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5cfb78a5a6a599f543e7b",
+			"id": "tt9052934",
+			"primaryImage": null,
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)--A Timesaving, Perception-Taxing Version",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)--A Timesaving, Perception-Taxing Version",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2018,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 24,
+				"month": 9,
+				"year": 2018,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5d0f3cffb8f2faa548463",
+			"id": "tt9052950",
+			"primaryImage": null,
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix for Realists (aka Reviewing The Matrix in Terms of One Cypher)",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2018,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 24,
+				"month": 9,
+				"year": 2018,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5d0d7b597b91eb9547d91",
+			"id": "tt7068378",
+			"primaryImage": null,
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix of Control",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix of Control",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2014,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": null,
+				"month": null,
+				"year": 2014,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5d87f909c2ca78156630d",
+			"id": "tt16409916",
+			"primaryImage": {
+				"id": "rm4021480449",
+				"width": 450,
+				"height": 600,
+				"url": "https://m.media-amazon.com/images/M/MV5BN2ZmMTEwMTItZjBkMi00MWI5LTk5ZGItOTE5MmM3MDI5NTRiXkEyXkFqcGdeQXVyNzExMzc0MDg@._V1_.jpg",
+				"caption": {
+					"plainText": "Kevin Murphy and Michael J. Nelson in Rifftrax: The Matrix (2006)",
+					"__typename": "Markdown"
+				},
+				"__typename": "Image"
+			},
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "Rifftrax: The Matrix",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "Rifftrax: The Matrix",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2006,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 25,
+				"month": 10,
+				"year": 2006,
+				"__typename": "ReleaseDate"
+			}
+		},
+		{
+			"_id": "61e5aeedcffb8f2faa4c6a1d",
+			"id": "tt1830851",
+			"primaryImage": {
+				"id": "rm4284826368",
+				"width": 676,
+				"height": 1000,
+				"url": "https://m.media-amazon.com/images/M/MV5BMzk3YzFjYzYtNDVhZC00ZDJiLTlmOGYtMjNlNjRhZGFiZGNiXkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_.jpg",
+				"caption": {
+					"plainText": "The Matrix Revolutions Revisited (2004)",
+					"__typename": "Markdown"
+				},
+				"__typename": "Image"
+			},
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix Revolutions Revisited",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix Revolutions Revisited",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2004,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": null
+		},
+		{
+			"_id": "61e5aeedd8f3c0931e4c6cd7",
+			"id": "tt1830850",
+			"primaryImage": {
+				"id": "rm3932504832",
+				"width": 684,
+				"height": 1000,
+				"url": "https://m.media-amazon.com/images/M/MV5BODBlZmFiMTktOTkyMy00OWFkLTg0ZTAtODJkY2VlYWQ0NWM1XkEyXkFqcGdeQXVyODA1NjQ0OTY@._V1_.jpg",
+				"caption": {
+					"plainText": "The Matrix Reloaded Revisited (2004)",
+					"__typename": "Markdown"
+				},
+				"__typename": "Image"
+			},
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix Reloaded Revisited",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix Reloaded Revisited",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2004,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": null
+		},
+		{
+			"_id": "61e582d195801a78bc41b1c7",
+			"id": "tt0234215",
+			"primaryImage": {
+				"id": "rm2235971328",
+				"width": 800,
+				"height": 1200,
+				"url": "https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+				"caption": {
+					"plainText": "Keanu Reeves, Laurence Fishburne, and Carrie-Anne Moss in The Matrix Reloaded (2003)",
+					"__typename": "Markdown"
+				},
+				"__typename": "Image"
+			},
+			"titleType": {
+				"text": "Movie",
+				"id": "movie",
+				"isSeries": false,
+				"isEpisode": false,
+				"__typename": "TitleType"
+			},
+			"titleText": {
+				"text": "The Matrix Reloaded",
+				"__typename": "TitleText"
+			},
+			"originalTitleText": {
+				"text": "The Matrix Reloaded",
+				"__typename": "TitleText"
+			},
+			"releaseYear": {
+				"year": 2003,
+				"endYear": null,
+				"__typename": "YearRange"
+			},
+			"releaseDate": {
+				"day": 15,
+				"month": 5,
+				"year": 2003,
+				"__typename": "ReleaseDate"
+			}
+		}
+	]
+}
