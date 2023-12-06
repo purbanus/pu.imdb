@@ -9,6 +9,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import jakarta.persistence.UniqueConstraint;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
@@ -19,7 +20,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(uniqueConstraints = { @UniqueConstraint(name = "UN_Film_Title", columnNames = { "title" }) })
+@Table(uniqueConstraints = { @UniqueConstraint(name = "UN_Film_Title_Year", columnNames = { "title", "year" }) })
 public class SpeelFilm
 {
 @Id
@@ -38,13 +39,13 @@ private String series;
 @Column( nullable = false )
 private String title;
 
-@Column( nullable = false )
+@Column //( nullable = false ) // @@Misschien later
 private String director;
 
 @Column( nullable = false )
 private int year;
 
-@Column( nullable = false )
+@Column //( nullable = false ) // @@Misschien later
 private String actors;
 
 @Column
