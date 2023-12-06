@@ -250,7 +250,7 @@ SpeelFilm parseHollandCinema( Path aPath, String aFileName, BasicFileAttributes 
 		int startYearPosition = endYearPosition - 6;
 		title = rawTitle.substring( 0, startYearPosition );
 	}
-	title.replace( '.', ' ' );
+	title = title.replace( '.', ' ' );
 	Integer year = getYear( yearString );
 	
 	speelFilm = SpeelFilm.builder()
