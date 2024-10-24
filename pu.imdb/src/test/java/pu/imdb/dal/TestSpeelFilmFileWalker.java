@@ -19,8 +19,8 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import pu.imdb.util.MatrixFormatter;
-import pu.imdb.util.StringHelper;
+import pu.services.MatrixFormatter;
+import pu.services.StringHelper;
 
 import lombok.Data;
 

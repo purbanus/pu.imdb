@@ -1,6 +1,6 @@
 package pu.imdb.dal;
 
-import pu.imdb.util.StringHelper;
+import pu.services.StringHelper;
 
 public class JavaClassPath
 {
